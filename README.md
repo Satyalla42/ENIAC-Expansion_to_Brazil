@@ -1,6 +1,13 @@
 # ENIAC_Expansion_to_Brazil_Magist
-This is a group project from the Data Science Bootcamp in WBS. 
 
-We analyzed a relational database from a partner Magist, which is selling a variety of products in Brazil. We (ENIAC) are considering expanding to Brazil to sell our high-end tech products. 
+##ENIAC Expansion to Brazil - Magist Partnership
+Group Project from the Data Science Bootcamp at WBS
 
-The main points for us to analyze, where wether Brazil is the right market for our high-end techn products, how fast are deliveries and can the customer service keep up with our usual standard? 
+We analyzed a relational database from our partner, Magist, a company selling a variety of products in Brazil. Our team (ENIAC) is exploring the potential for expanding into Brazil to introduce our high-end tech products.
+
+Key points of our analysis included:
+
+Market Viability: Assessing whether Brazil is a suitable market for our high-end tech products.
+Delivery Efficiency: Evaluating the speed and reliability of product deliveries.
+Customer Service Capability: Determining if customer support can maintain our usual high standards.
+Tools Used: SQL for database querying and Tableau for data visualization and analysis.
