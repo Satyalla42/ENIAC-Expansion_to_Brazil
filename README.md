@@ -1,4 +1,4 @@
-# ENIAC_Expansion_to_Brazil_Magist
+
 
 ## ENIAC Expansion to Brazil - Magist Partnership
 ### Group Project from the Data Science Bootcamp at WBS
