@@ -1,7 +1,7 @@
 # ENIAC_Expansion_to_Brazil_Magist
 
 ## ENIAC Expansion to Brazil - Magist Partnership
-Group Project from the Data Science Bootcamp at WBS
+### Group Project from the Data Science Bootcamp at WBS
 
 We analyzed a relational database from our partner, Magist, a company selling a variety of products in Brazil. Our team (ENIAC) is exploring the potential for expanding into Brazil to introduce our high-end tech products.
 
