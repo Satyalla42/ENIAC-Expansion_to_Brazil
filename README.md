@@ -3,7 +3,7 @@
 ## ENIAC Expansion to Brazil - Magist Partnership
 ### Group Project from the Data Science Bootcamp at WBS
 
-We analyzed a relational database from our partner, Magist, a company selling a variety of products in Brazil. Our team (ENIAC) is exploring the potential for expanding into Brazil to introduce our high-end tech products.
+We analyzed a relational database from our partner, Magist, a company selling a variety of products in Brazil. Our team (ENIAC) is exploring the potential for expanding into Brazil to introduce our high-end tech products. Our results were presented to the CEO of ENIAC.
 
 Key points of our analysis included:
 
