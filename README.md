@@ -7,14 +7,14 @@ We analyzed a relational database from our partner, Magist, a company selling a 
 
 Key points of our analysis included:
 
-Market Viability: 
+**Market Viability:** 
 Assessing whether Brazil is a suitable market for our high-end tech products.
 
-Delivery Efficiency: 
+**Delivery Efficiency:** 
 Evaluating the speed and reliability of product deliveries.
 
-Customer Service Capability: 
+**Customer Service Capability:** 
 Determining if customer support can maintain our usual high standards.
 
-Tools Used: 
+**Tools Used:** 
 SQL for database querying and Tableau for data visualization and analysis.
